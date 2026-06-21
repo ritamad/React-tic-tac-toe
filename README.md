@@ -18,15 +18,6 @@ The application is fully completed, architectural processes have been streamline
 
 ---
 
-## UI Redesign & Customization
-
-The user interface has been completely overhauled from the standard course template to achieve a unique visual identity:
-
-- **Muted Pastel Palette:** Replaced the original yellow and brown layout with a sophisticated combination of deep purple for the game containers and muted mint/sage green for active player highlights, symbols, and game over overlays.
-- **Minimalist High-Contrast Layout:** Set against an absolute black background, the clean and geometric interface is designed to maximize readability and focus strictly on the gameplay experience.
-
----
-
 ## Tech Stack
 
 - **React** (Hooks, Functional Components)
